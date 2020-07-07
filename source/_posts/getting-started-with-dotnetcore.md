@@ -5,6 +5,8 @@ title: Getting started with .NET Core
 date: 2020-07-07
 description: Let's finally do .NET Core
 featured: true
+cover_image: /assets/img/posts/getting-started-with-dot-net-core/asp-net-core.png
+categories: [.net, .net core, c#, asp.net, asp.net core]
 ---
 
 I've got some nice idea for my side project (uh, another one) and this time I wanted to do something besides Laravel. So I decided to try .NET Core or ASP.NET Core. It's not really my first time - I have been practicing .NET Core back when it was in Alpha and Beta stages - to be honest, I was really excited about the idea of running .NET on Linux devices and I believed this would be an end of PHP. I was so wrong. 

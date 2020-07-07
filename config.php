@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
+    'siteName' => 'mattocodesdotnet',
     'siteDescription' => 'Generate an elegant blog with Jigsaw',
     'siteAuthor' => 'Matej',
 
